@@ -4,8 +4,8 @@ class Xcresultparser < Formula
   # url "https://github.com/a7ex/xcresultparser.git",
   #    tag: "1.0.2", revision: "9977b9f765fca377755e378188ee8bc0e7e057d0"
   version "1.1.5"
-  url "https://github.com/a7ex/xcresultparser/archive/1.1.5.tar.gz"
-  sha256 "b1fa8da48730b4a37fd580d8f29a83cf82200ec049573cadcb71814a23bfbdf0"
+  url "https://github.com/a7ex/xcresultparser/archive/1.2.0.tar.gz"
+  sha256 "08e27525c8d32e0233b9a2afa332f38d8dc2098920429c99c0930804243888c7"
   license "MIT"
 
   depends_on xcode: ["10.0", :build]
