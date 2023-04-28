@@ -1,9 +1,9 @@
 class Xcresultparser < Formula
   desc "Parse .xcresult files and print summary in different formats"
   homepage "https://github.com/a7ex/xcresultparser"
-  version "1.3.1"
-  url "https://github.com/a7ex/xcresultparser/archive/1.3.1.tar.gz"
-  sha256 "8a4ea2f17d7cbcef24591007bb89f886de29527989047a0e049649aee331d17d"
+  version "1.4.0"
+  url "https://github.com/a7ex/xcresultparser/archive/1.4.0.tar.gz"
+  sha256 "b3c9a1c4c6375852b60087622653b0f486917cc8f945c605be3ca24f5f7af21a"
   license "MIT"
 
   depends_on xcode: ["10.0", :build]
