@@ -1,4 +1,4 @@
-class SBEnumerator < Formula
+class Sbenumerator < Formula
   desc "Parse Xcode Interface Builder files and create enums for cell identifiers and accessibility identifiers"
   homepage "https://github.com/a7ex/SBEnumerator"
   version "1.0.0"
