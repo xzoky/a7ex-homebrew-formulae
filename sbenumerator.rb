@@ -1,9 +1,9 @@
 class Sbenumerator < Formula
   desc "Parse Xcode Interface Builder files and create enums for cell identifiers and accessibility identifiers"
   homepage "https://github.com/a7ex/SBEnumerator"
-  version "1.0.1"
-  url "https://github.com/a7ex/SBEnumerator/archive/1.0.1.tar.gz"
-  sha256 "6554d0e6ca47f77e3c6097281aff9a7f711841c2b682719e93b6b3f5af07751a"
+  version "1.0.2"
+  url "https://github.com/a7ex/SBEnumerator/archive/1.0.2.tar.gz"
+  sha256 "3c53dc86acd0d8a3f90c60a24c9d946cb29ce3438d8be694974e42974ae50589"
   license "MIT"
 
   depends_on xcode: ["10.0", :build]
